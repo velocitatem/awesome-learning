@@ -1,3 +1,389 @@
+Economics:
+  Foundations:
+    Economic_Theory:
+      Basic_Concepts:
+        Scarcity: "Understanding resource limitations and the need for choice"
+        Opportunity_Cost: "Evaluating the cost of the next best alternative foregone"
+        Incentives: "Analyzing how rewards and penalties influence behavior"
+        Supply_and_Demand:
+          Supply: "Factors affecting production levels, such as input costs and technology"
+          Demand: "Consumer preferences, income effects, and substitution effects"
+          Market_Equilibrium: "How supply and demand interact to set prices and quantities"
+        Marginal_Analysis:
+          Marginal_Cost: "Additional cost incurred by producing one more unit"
+          Marginal_Revenue: "Extra revenue generated from selling one additional unit"
+          Marginal_Utility: "Incremental satisfaction from consuming an extra unit"
+      Microeconomic_Theory:
+        Consumer_Theory:
+          Utility_Maximization:
+            Utility_Functions:
+              Cobb_Douglas: "Functional form with constant expenditure shares"
+              CES: "Constant elasticity of substitution functions"
+              Leontief: "Fixed proportion production, perfect complements"
+            Budget_Constraints: "Graphical analysis of feasible consumption bundles"
+            Income_and_Substitution_Effects: "How price changes alter consumption choices"
+          Indifference_Curves:
+            Properties: "Convexity, diminishing marginal rate of substitution (MRS)"
+            Applications: "Deriving demand curves and understanding consumer behavior"
+          Revealed_Preference: "Testing consistency of observed consumer choices"
+        Producer_Theory:
+          Production_Functions:
+            Short_Run: "Law of diminishing returns and fixed vs. variable inputs"
+            Long_Run: "Returns to scale and technological progress"
+          Cost_Analysis:
+            Cost_Functions:
+              Total_Cost: "Fixed and variable cost breakdown"
+              Average_and_Marginal_Costs: "Determining optimal output levels"
+            Economies_of_Scale: "Cost advantages from increasing production volume"
+          Firm_Behavior:
+            Profit_Maximization: "Setting output where marginal cost equals marginal revenue"
+            Supply_Determination: "How firms adjust output in competitive markets"
+        Market_Structures:
+          Perfect_Competition:
+            Characteristics: "Many small firms, homogenous products, free entry/exit"
+          Monopoly:
+            Price_Making: "Single seller power, barriers to entry, inefficiencies"
+          Oligopoly:
+            Strategic_Interactions: "Game theory applications and collusion possibilities"
+          Monopolistic_Competition:
+            Product_Differentiation: "Branding and non-price competition strategies"
+          Price_Discrimination:
+            Degrees:
+              First_Degree: "Personalized pricing based on individual willingness to pay"
+              Second_Degree: "Menu pricing and quantity discounts"
+              Third_Degree: "Segmenting markets based on observable characteristics"
+      Macroeconomic_Theory:
+        Aggregate_Analysis:
+          National_Income:
+            GDP: "Measurement through expenditure, income, and production approaches"
+            GNP: "Total income earned by a nation’s residents"
+          Aggregate_Demand_and_Supply:
+            Short_Run: "Sticky prices, wage rigidity, and Keynesian dynamics"
+            Long_Run: "Adjustment mechanisms and classical market clearing"
+          Unemployment:
+            Types:
+              Frictional: "Temporary transitions between jobs"
+              Structural: "Mismatch of skills or geographic location"
+              Cyclical: "Fluctuations due to economic downturns"
+              Seasonal: "Variations due to time-of-year factors"
+          Inflation:
+            Causes:
+              Demand_Pull: "Excess demand in the economy"
+              Cost_Push: "Rising production costs influencing prices"
+              Built_In: "Wage-price spirals and expectations"
+        Growth_Theory:
+          Exogenous_Growth:
+            Solow_Swan_Model: "Role of capital accumulation and technological progress"
+          Endogenous_Growth:
+            Models: "Human capital, R&D, and innovation-driven growth"
+            Spillover_Effects: "Positive externalities from technology and education"
+        Business_Cycles:
+          Theories:
+            Keynesian_Cycle: "Aggregate demand shocks and multiplier effects"
+            Real_Business_Cycle: "Productivity shocks and market self-corrections"
+          Stabilization_Policies:
+            Monetary_Policy: "Central bank interventions and interest rate adjustments"
+            Fiscal_Policy: "Government spending, taxation, and stimulus measures"
+    Mathematics_for_Economics:
+      Calculus:
+        Differential_Calculus:
+          Applications: "Marginal analysis and optimization in consumer/producer theory"
+        Integral_Calculus:
+          Applications: "Calculating consumer and producer surplus, accumulated change"
+        Multivariable_Calculus:
+          Techniques: "Partial derivatives, constrained optimization, and Lagrange multipliers"
+      Statistics_and_Probability:
+        Probability_Theory:
+          Fundamentals: "Axioms, conditional probability, and Bayes’ theorem"
+        Statistical_Inference:
+          Concepts: "Sampling distributions, confidence intervals, and hypothesis testing"
+        Applications: "Foundation for econometric modeling and data analysis"
+      Linear_Algebra:
+        Applications: "Matrix operations in input-output models and economic forecasting"
+        Concepts: "Eigenvalues, eigenvectors, and their economic interpretations"
+      Optimization:
+        Constrained_Optimization:
+          Methods: "Lagrange multipliers, Kuhn-Tucker conditions, duality theory"
+        Dynamic_Programming:
+          Techniques: "Bellman equation in intertemporal decision making and resource allocation"
+    Economic_History_and_Thought:
+      History_of_Economic_Thought:
+        Classical_Economics:
+          Key_Figures: "Adam Smith, David Ricardo, Thomas Malthus"
+          Core_Ideas: "Division of labor, comparative advantage, rent theory"
+        Neoclassical_Economics:
+          Evolution: "Marginalism, equilibrium analysis, and market efficiency"
+        Keynesian_Economics:
+          Concepts: "Aggregate demand management, fiscal stimulus, liquidity preference"
+        Modern_Schools:
+          Branches: "Behavioral, institutional, feminist, ecological economics"
+      Institutional_Economics:
+        Focus: "Impact of legal, social, and political institutions on economic performance"
+        Analysis: "Role of property rights, contracts, and governance structures"
+      Evolution_of_Economic_Ideas:
+        Influences: "Historical events, cultural shifts, and interdisciplinary insights"
+        Comparative_Studies: "How economic thought evolved across different regions and eras"
+  Core_Topics:
+    Microeconomics:
+      Consumer_Theory:
+        Utility_Functions:
+          Types:
+            - "Cobb-Douglas: Constant elasticity and simplicity"
+            - "CES: Flexibility in substitution between goods"
+            - "Leontief: Perfect complements in consumption"
+        Budget_Constraints:
+          Analysis: "Graphical representations and effects of income changes"
+          Shifts: "Impact of taxation, subsidies, and price variations"
+        Consumer_Choice_Model:
+          Theories: "Revealed preference, random utility models, discrete choice models"
+      Producer_Theory:
+        Production_Functions:
+          Short_Run: "Diminishing returns and fixed inputs analysis"
+          Long_Run: "Scale economies, technology adoption, and production possibility frontiers"
+        Cost_Functions:
+          Components: "Fixed vs. variable costs, marginal and average costs"
+          Analysis: "Cost minimization and output decision-making"
+        Firm_Profit_Maximization:
+          Strategies: "Competitive behavior, price-setting under imperfect competition"
+      Market_Equilibrium:
+        Price_Mechanism:
+          Dynamics: "How markets clear and allocate resources efficiently"
+          Disequilibrium: "Surpluses, shortages, and adjustment processes"
+        Comparative_Statics:
+          Methods: "Analyzing shifts in supply/demand and policy impacts"
+      Game_Theory_and_Strategy:
+        Non_Cooperative_Game_Theory:
+          Concepts: "Nash equilibrium, dominant strategies, and mixed strategies"
+        Cooperative_Game_Theory:
+          Tools: "Bargaining solutions, core, Shapley value"
+        Auction_Theory:
+          Formats: "English, Dutch, first-price sealed bid, and second-price auctions"
+          Models: "Revenue equivalence, bidder behavior, and risk attitudes"
+      Information_Economics:
+        Asymmetric_Information:
+          Problems: "Adverse selection, moral hazard, and market signaling"
+        Signaling_and_Screening:
+          Mechanisms: "Education as a signal, warranties, and contract design"
+    Macroeconomics:
+      National_Income_and_Output:
+        Measurement:
+          GDP_Methods: "Expenditure, income, and production approaches"
+          Limitations: "Non-market transactions, underground economy"
+        Income_Distribution:
+          Analysis: "Lorenz curve, Gini coefficient, and inequality metrics"
+      Economic_Growth_and_Development:
+        Growth_Models:
+          Exogenous: "Solow-Swan model fundamentals and steady state analysis"
+          Endogenous: "Role of R&D, human capital, and innovation spillovers"
+        Development_Indicators:
+          Metrics: "HDI, poverty indices, inequality measures, and quality of life"
+      Monetary_Economics:
+        Money_Market:
+          Functions: "Medium of exchange, store of value, unit of account"
+        Monetary_Policy:
+          Instruments: "Interest rate adjustments, open market operations, reserve requirements"
+        Inflation:
+          Measurement: "CPI, PPI, core inflation, and hyperinflation case studies"
+      Fiscal_Policy_and_Public_Expenditure:
+        Government_Budget:
+          Components: "Expenditures, revenues, deficits, and debt dynamics"
+        Taxation:
+          Systems: "Progressive, regressive, and proportional tax structures"
+          Incidence: "Who ultimately bears the tax burden and efficiency considerations"
+      Business_Cycles:
+        Theories:
+          Keynesian: "Demand shocks, multiplier effects, and liquidity traps"
+          Real_Business_Cycle: "Productivity shocks, market self-correction, and technology cycles"
+        Policy_Response:
+          Stabilization: "Countercyclical policies, automatic stabilizers, discretionary measures"
+    Econometrics:
+      Statistical_Methods:
+        Regression_Analysis:
+          Techniques: "Ordinary Least Squares (OLS), weighted least squares, robust estimation"
+          Diagnostics: "Testing for heteroskedasticity, multicollinearity, autocorrelation"
+        Time_Series_Analysis:
+          Models: "ARIMA, seasonal adjustment, unit root testing, cointegration"
+          Forecasting: "Predictive models and error measurement techniques"
+      Econometric_Models:
+        Panel_Data:
+          Approaches: "Fixed effects, random effects, dynamic panels, and GMM estimators"
+        Limited_Dependent_Variable_Models:
+          Methods: "Logit, Probit, Tobit, and count data models"
+      Causal_Inference:
+        Experimental_Design:
+          Designs: "Randomized controlled trials, natural experiments, field experiments"
+        Instrumental_Variables:
+          Techniques: "Addressing endogeneity using 2SLS and over-identification tests"
+    Financial_Economics:
+      Asset_Pricing:
+        CAPM:
+          Framework: "Risk-return tradeoff, beta measurement, security market line"
+        Arbitrage_Pricing_Theory:
+          Multifactor_Models: "Fama-French factors, macroeconomic factor models"
+      Corporate_Finance:
+        Capital_Structure:
+          Theories: "Trade-off theory, pecking order theory, market timing"
+        Valuation_Methods:
+          Techniques: "Discounted cash flow (DCF), comparables, dividend discount models"
+      Market_Microstructure:
+        Trading_Mechanisms:
+          Comparison: "Order-driven vs. quote-driven markets, liquidity analysis"
+        Behavioral_Finance:
+          Insights: "Investor psychology, sentiment analysis, market anomalies"
+    International_Economics:
+      Trade_Theory:
+        Comparative_Advantage:
+          Models: "Ricardian model, factor endowment (Heckscher-Ohlin) model"
+        New_Trade_Theory:
+          Concepts: "Increasing returns to scale, network effects, product differentiation"
+      International_Finance:
+        Exchange_Rate_Determination:
+          Models: "Purchasing Power Parity (PPP), interest rate parity, currency crises"
+        Balance_of_Payments:
+          Analysis: "Current account, capital account, and financial flows"
+      Globalization:
+        Economic_Integration:
+          Forms: "Free trade areas, customs unions, common markets, economic unions"
+        Foreign_Direct_Investment:
+          Impacts: "Multinational corporations, technology transfer, labor market effects"
+  Advanced_Areas:
+    Behavioral_Economics:
+      Cognitive_Biases:
+        Examples:
+          - Anchoring: "Influence of initial information on decision making"
+          - Availability: "Reliance on readily available information"
+          - Loss_Aversion: "Disproportionate sensitivity to losses versus gains"
+      Prospect_Theory:
+        Key_Ideas: "Reference dependence, probability weighting, and framing effects"
+      Experimental_Methods:
+        Techniques:
+          - Laboratory_Experiments: "Controlled environments to test behavioral hypotheses"
+          - Field_Experiments: "Real-world testing of economic theories"
+    Development_Economics:
+      Theories_of_Development:
+        Perspectives:
+          - Modernization_Theory: "Stages of economic growth and social change"
+          - Dependency_Theory: "Role of external forces and exploitation in underdevelopment"
+          - Structural_Change: "Shifts in economic sectors over time"
+      Poverty_Analysis:
+        Measurement:
+          - Income_Metrics: "Per capita income, poverty lines, and inequality indices"
+          - Multidimensional_Poverty: "Health, education, and living standards"
+      Role_of_Institutions:
+        Analysis: "Impact of governance, legal systems, and corruption on economic development"
+      Sustainable_Development:
+        Integration: "Balancing economic growth, social inclusion, and environmental protection"
+    Environmental_Economics:
+      Valuation_of_Resources:
+        Methods:
+          - Contingent_Valuation: "Survey-based estimation of non-market values"
+          - Hedonic_Pricing: "Valuation based on differences in market prices"
+      Climate_Change_Economics:
+        Policy_Instruments:
+          - Carbon_Pricing: "Carbon taxes, cap-and-trade systems"
+          - Subsidies_and_Regulations: "Incentives for renewable energy and emissions reduction"
+      Natural_Resource_Economics:
+        Resource_Management:
+          - Renewable_Resources: "Sustainable harvesting and management techniques"
+          - Non_Renewable_Resources: "Optimal extraction and resource depletion models"
+    Public_Economics:
+      Government_Intervention:
+        Rationale: "Addressing market failures and providing public goods"
+      Taxation_Theory:
+        Analysis:
+          - Optimal_Tax_Theory: "Designing taxes to maximize social welfare"
+          - Deadweight_Loss: "Efficiency losses from taxation"
+      Welfare_Economics:
+        Redistribution:
+          - Social_Welfare_Functions: "Balancing equity and efficiency"
+          - Transfer_Payments: "Income redistribution via social security, unemployment benefits"
+    Experimental_Economics:
+      Lab_Experiments:
+        Design: "Controlled experiments to isolate causal effects"
+      Field_Experiments:
+        Implementation: "Natural experiments, policy interventions in real-world settings"
+      Behavioral_Field_Studies:
+        Application: "Integrating behavioral insights into public policy evaluation"
+    Computational_Economics:
+      Agent_Based_Modeling:
+        Simulation: "Modeling heterogeneous agents and emergent behavior"
+      Algorithmic_Game_Theory:
+        Computational_Issues: "Complexity of equilibria, mechanism design algorithms"
+      Big_Data_in_Economics:
+        Techniques: "Data mining, machine learning, and predictive analytics in economic research"
+  Applied_and_Interdisciplinary:
+    Health_Economics:
+      Healthcare_Systems:
+        Comparative_Analysis: "Public vs. private healthcare models, access and quality measures"
+      Pharmaceutical_Economics:
+        Focus: "Drug pricing, patent policies, and innovation incentives in healthcare"
+      Cost_Effectiveness_Analysis:
+        Methods: "Evaluating interventions based on cost per quality-adjusted life year (QALY)"
+    Urban_and_Regional_Economics:
+      City_Economics:
+        Topics: "Urbanization trends, housing market dynamics, and infrastructure challenges"
+      Regional_Development:
+        Issues: "Spatial disparities, resource allocation, and regional policy planning"
+      Transportation_Economics:
+        Analysis: "Economic evaluation of public transit, road pricing, and congestion management"
+    Labor_Economics:
+      Wage_Determination:
+        Theories: "Human capital theory, signaling, and discrimination in wage formation"
+      Employment_Dynamics:
+        Concepts: "Labor market matching, unemployment durations, and job search theories"
+      Labor_Market_Institutions:
+        Impact: "Role of unions, minimum wage laws, and labor regulations on productivity"
+    Economic_Geography:
+      Spatial_Economics:
+        Analysis: "Location theory, agglomeration economies, and spatial competition"
+      Geospatial_Analysis:
+        Tools: "GIS applications and spatial econometric models for regional studies"
+    Political_Economy:
+      Public_Choice_Theory:
+        Focus: "Voting behavior, rent-seeking, and collective decision-making in policy"
+      Policy_Analysis:
+        Methods: "Evaluating legislation impacts, regulatory outcomes, and market responses"
+      International_Political_Economy:
+        Dynamics: "Global power structures, economic sanctions, and multilateral institutions"
+    Industrial_Organization:
+      Market_Structure:
+        Analysis: "Firm behavior, entry barriers, and competition policies"
+      Competition_Policy:
+        Tools: "Antitrust laws, merger reviews, and regulatory oversight"
+      Pricing_Strategies:
+        Approaches: "Dynamic pricing, price discrimination, and strategic pricing models"
+  Research_and_Innovation:
+    Academic_Research:
+      Research_Methodologies:
+        Qualitative_Methods:
+          Techniques: "Case studies, ethnography, historical analysis"
+        Quantitative_Methods:
+          Techniques: "Econometric modeling, surveys, controlled experiments"
+      Scholarly_Publishing:
+        Venues: "Top journals (AER, QJE, Econometrica) and open-access platforms"
+        Peer_Review: "Standards, processes, and academic conferences"
+      Conferences_and_Workshops:
+        Events: "Annual meetings (AEA, NBER), specialized symposia, and methodological workshops"
+    Policy_Analysis:
+      Impact_Evaluation:
+        Tools: "Cost-benefit analysis, program evaluation, and simulation models"
+      Regulatory_Impact:
+        Analysis: "Assessing the effects of regulation on market competition and innovation"
+    Data_and_Analytics:
+      Data_Sources:
+        - "Government statistics, international databases (World Bank, IMF)"
+        - "Private datasets and real-time economic indicators"
+      Visualization_Tools:
+        - "Tableau, R (ggplot2), Python (matplotlib, seaborn), GIS platforms"
+      Advanced_Analytics:
+        Techniques: "Machine learning, text analysis, network analysis in economic contexts"
+    Open_Economics:
+      Open_Data_Initiatives:
+        Concepts: "Transparency, collaborative research, and data sharing protocols"
+      Collaborative_Research:
+        Platforms: "Open-source models, reproducible research, and shared computational tools"
+      Academic_Outreach:
+        Initiatives: "MOOCs, online courses, and community-driven research projects"
 Computer Science:
   Foundations:
     Mathematics:
